@@ -16,7 +16,7 @@ O site possui uma página home com uma breve introdução e botões para minhas 
 
 ## 📁 Acesso ao projeto
 
-[Veja o projeto final do curso em funcionamento](https://maju-2440.github.io/Portifolio-HTL-e-CSS/).
+[Veja o projeto final do curso em funcionamento](https://maju-2440.github.io/Portifolio-HTML-e-CSS/).
 
 Você pode acessar o projeto online através do link acima.
 
